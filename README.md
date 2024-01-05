@@ -42,7 +42,7 @@ Ensure you have the following software installed:
 # Clone the repository & connection to database
 git clone https://github.com/rishav-eulb/assessment
 
-Add your mongo-db connection string 
+Add your mongo-db connection string in app.js file
 
 # Install dependencies
 npm install
