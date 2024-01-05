@@ -11,6 +11,8 @@ A secure and scalable RESTful API for creating, reading, updating, and deleting 
   - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
+- [Tests].(#tests)
+  
 
 
 ## Introduction
@@ -36,26 +38,25 @@ Ensure you have the following software installed:
 - Node.js
 - MongoDB
 
-### Installation
+# Installation
 
-```bash```
-# Clone the repository & connection to database
+### Clone the repository & connection to database
 git clone https://github.com/rishav-eulb/assessment
 
 Add your mongo-db connection string in app.js file
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# run app
+### run app
 npm start
 
-### Authentication Endpoints
+## Authentication Endpoints
 
 - **POST /api/auth/signup:** Create a new user account
 - **POST /api/auth/login:** Login to an existing user account and receive an access token
 
-### Note Endpoints
+## Note Endpoints
 
 - **GET /api/notes:** Get a list of all notes for the authenticated user
 - **GET /api/notes/:id:** Get a note by ID for the authenticated user
@@ -64,7 +65,7 @@ npm start
 - **DELETE /api/notes/:id:** Delete a note by ID for the authenticated user
 - **POST /api/notes/:id/share:** Share a note with another user for the authenticated user
 
-### Search Endpoints
+## Search Endpoints
 
 - **GET /api/search?q=:query:** Search for notes based on keywords for the authenticated user
 
