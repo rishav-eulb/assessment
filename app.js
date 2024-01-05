@@ -26,7 +26,7 @@ app.use(bodyParser.json());
 
 // MongoDB connection
 mongoose.connect(
-  "mongodb+srv://work78530:abcd@cluster0.wdbmxqn.mongodb.net/note_app?retryWrites=true&w=majority",
+  "enter your connection string",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
