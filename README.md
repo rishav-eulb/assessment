@@ -68,4 +68,8 @@ npm start
 
 - **GET /api/search?q=:query:** Search for notes based on keywords for the authenticated user
 
+## Tests
+
+**Note:** We are currently in the process of implementing tests for the API endpoints. Test coverage will be added shortly to ensure the reliability of the application.
+
 
