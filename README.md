@@ -10,9 +10,7 @@ A secure and scalable RESTful API for creating, reading, updating, and deleting 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Tests].(#tests)
-  
+- [API Endpoints](#api-endpoints)  
 
 
 ## Introduction
