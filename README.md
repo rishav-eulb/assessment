@@ -69,6 +69,6 @@ npm start
 
 ## Tests
 
-**Note:** We are currently in the process of implementing tests for the API endpoints. Test coverage will be added shortly to ensure the reliability of the application. We have crossed verified all endpoints using POSTMAN.
+**Note:** We are currently in the process of implementing tests for the API endpoints. Test coverage will be added shortly to ensure the reliability of the application. But in the mean time to ensure reliability we have crossed verified all endpoints using POSTMAN.
 
 
