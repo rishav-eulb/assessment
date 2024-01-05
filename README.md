@@ -40,7 +40,7 @@ Ensure you have the following software installed:
 
 ```bash```
 # Clone the repository
-git clone https://github.com/your-username/note-management-api.git
+git clone https://github.com/rishav-eulb/assessment
 
 # Add your mongo-db connection string 
 
