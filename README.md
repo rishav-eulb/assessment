@@ -25,7 +25,7 @@ This project implements a secure and scalable RESTful API using Express and Mong
 - Rate limiting and request throttling
 - Text indexing for high-performance search
 - Testing framework (e.g., Mocha, Chai) {Ongoing work}
-- Unit and integration tests
+- Unit and integration tests {Ongoing work}
 
 ## Getting Started
 
