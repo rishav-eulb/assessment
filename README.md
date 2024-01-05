@@ -39,7 +39,7 @@ Ensure you have the following software installed:
 ### Installation
 
 ```bash```
-# Clone the repository
+# Clone the repository & connection to database
 git clone https://github.com/rishav-eulb/assessment
 
 Add your mongo-db connection string 
