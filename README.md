@@ -63,6 +63,9 @@ npm start
 - **PUT /api/notes/:id:** Update an existing note by ID for the authenticated user
 - **DELETE /api/notes/:id:** Delete a note by ID for the authenticated user
 - **POST /api/notes/:id/share:** Share a note with another user for the authenticated user
+
+### Search Endpoints
+
 - **GET /api/search?q=:query:** Search for notes based on keywords for the authenticated user
 
 
